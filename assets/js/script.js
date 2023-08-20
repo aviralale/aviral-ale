@@ -1,5 +1,3 @@
-'use strict';
-
 
 
 // add Event on multiple elment
